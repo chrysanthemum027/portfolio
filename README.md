@@ -51,7 +51,7 @@
 - UPSEE 2019: Secured AIR (girls) 5
 
 ## Position of Responsibility
-- Event Management Head | Uthaan: Journalism and Recreational Club | IIIT Gwalior (_August 2020 – Present_)
-- Head Of Operations | Rotaract Club of Youth | IIIT Gwalior (_August 2021 – May 2022_)
-- Social Media Manager | Aashman Foundation | Remote (_July 2021 – October 2021_)
-- Volunteer | Aurora’20 - Cultural Fest | IIIT Gwalior (_November 2019 – February 2020_)
+- Event Management Head | Uthaan: Journalism and Recreational Club | IIIT Gwalior | _August 2020 – Present_
+- Head Of Operations | Rotaract Club of Youth | IIIT Gwalior | _August 2021 – May 2022_
+- Social Media Manager | Aashman Foundation | Remote | _July 2021 – October 2021_
+- Volunteer | Aurora’20 - Cultural Fest | IIIT Gwalior | _November 2019 – February 2020_
