@@ -11,7 +11,7 @@
 - Engineered a comprehensive Python-based pipeline utilizing NLTK, scikit-learn, and Pandas for seamless data preprocessing, feature extraction, and sentiment analysis.
 - Executed rigorous data cleaning and preprocessing tasks, including tokenization, stop-word removal, and stemming, enhancing the accuracy of sentiment analysis results.
 - Conducted thorough evaluation of classification models using diverse metrics for sentiment analysis, implementing hyperparameter tuning to optimize model performance and achieve superior results.
-![sentiment-analysis-image](assets/Screenshot 2023-12-18 195748.png)
+![sentiment-analysis-image](assets/sentiment_analysis_image.png)
 
 **Movies Recommendation System | Academic Project**
 - Developed a content-based movie recommender system as part of the curriculum project.
