@@ -11,12 +11,14 @@
 - Engineered a comprehensive Python-based pipeline utilizing NLTK, scikit-learn, and Pandas for seamless data preprocessing, feature extraction, and sentiment analysis.
 - Executed rigorous data cleaning and preprocessing tasks, including tokenization, stop-word removal, and stemming, enhancing the accuracy of sentiment analysis results.
 - Conducted thorough evaluation of classification models using diverse metrics for sentiment analysis, implementing hyperparameter tuning to optimize model performance and achieve superior results.
+![sentiment-analysis-image](assets/Screenshot 2023-12-18 195748.png)
 
 **Movies Recommendation System | Academic Project**
 - Developed a content-based movie recommender system as part of the curriculum project.
 - Leveraged Python and popular libraries such as Pandas, NumPy, and scikit-learn for data preprocessing, feature extraction, and similarity calculations.
 - Gathered and preprocessed a comprehensive dataset of movie attributes including titles, genres, etc.
 - Utilized cosine similarity to measure the similarity between movies based on their feature vectors, allowing for personalized movie recommendations based on user preferences and content similarity.
+![movie_recommender_image](assets/movie_recommender_image.jpg)
 
 **Diwali Sales Analysis | Personal Project**
 - Performed data cleaning and data manipulation.
@@ -33,10 +35,10 @@
 - Data Mining ITIT-4104 | IIIT Gwalior
 
 ## Technical Skills
-####Languages: Python, SQL, C/C++####
-####Libraries & Frameworks: NumPy, Pandas, Vaex, Matplotlib, Seaborn, Scikit-learn, NLTK, TensorFlow, Keras, MERN, jQuery, Bootstrap####
-####Math & Machine Learning: Calculus, Probability & Statistics, KNN, Naive Bayes, Decision Trees, Random Forest, NLP, DNN, CNN####
-####Tools & Technologies: Jupyter Notebook, PowerBI, Tableau, MySQL Server, MS Excel, Firebase, Postman, Git, Google Cloud Platform####
+- Languages: Python, SQL, C/C++
+- Libraries & Frameworks: NumPy, Pandas, Vaex, Matplotlib, Seaborn, Scikit-learn, NLTK, TensorFlow, Keras, MERN, jQuery, Bootstrap
+- Math & Machine Learning: Calculus, Probability & Statistics, KNN, Naive Bayes, Decision Trees, Random Forest, NLP, DNN, CNN
+- Tools & Technologies: Jupyter Notebook, PowerBI, Tableau, MySQL Server, MS Excel, Firebase, Postman, Git, Google Cloud Platform
 
 ## Achievements
 - Salesforce 2023: Completed Salesforce Administrator Virtual Internship
